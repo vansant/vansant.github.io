@@ -1,2 +1,6 @@
 plugins:
   - jekyll-redirect-from
+
+title: Test Redirect
+redirect_to:
+  - http://www.github.com
